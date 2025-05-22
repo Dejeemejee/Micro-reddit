@@ -1,24 +1,3 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# A simple micro-reddit app demonstrating my undersatndng of the model component in the rails MVC architecture. Includes the essential models for the web app: Users, Post, and comments, corresponding tables, objects and schema records, associating patterns beteen the models and required validations for each entry in the database.
